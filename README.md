@@ -2,7 +2,9 @@
 
 Free auto-farm macro for Steal an Egg - hatches and collects on a loop while you are AFK. Windows 10/11, small installer.
 
-**[⬇ Download for Windows](https://github.com/OWNER/steal-an-egg-macro/releases/latest)** · [Website](https://stealaneggmacro.com)
+**[⬇ Download for Windows](https://github.com/poorpint/steal-an-egg-macro/releases/latest)** · [Website](https://stealaneggmacro.com)
+
+![Steal an Egg Macro](StealanEggMacro.png)
 
 ---
 
@@ -23,7 +25,7 @@ Hold mode keeps a key pressed for as long as you set, which is what hatching in 
 
 ## Install
 
-1. Download the latest release: **[Steal an Egg Macro](https://github.com/OWNER/steal-an-egg-macro/releases/latest)**
+1. Download the latest release: **[Steal an Egg Macro](https://github.com/poorpint/steal-an-egg-macro/releases/latest)**
 2. Run the installer. No admin rights, no extra components.
 3. Start it from the Start menu.
 
